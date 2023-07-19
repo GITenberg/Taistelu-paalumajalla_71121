@@ -1,0 +1,32 @@
+_repo: Taistelu-paalumajalla_71121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sealsfield, Charles
+    aliases:
+    - Postl, Karl Anton
+    - Postel, Karl
+    - Sidons, C.
+    - Postl, Carl
+    - Seatsfield
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '42662'
+    url: http://www.gutenberg.org/2009/agents/42662
+description: ''
+gutenberg_issued: '2023-07-05'
+identifiers:
+  gutenberg: '71121'
+language: fi
+pgterms:marc905: 20221230134218sealsfield
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bOtava, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Taistelu paalumajalla
+url: http://www.gutenberg.org/ebooks/71121
